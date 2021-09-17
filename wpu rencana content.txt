@@ -2,6 +2,7 @@ rencama konten wpu
 -video js
   =es6
   =framework js
+-struktur data dasar
 -php framewrok
 -interview
 -vlog
