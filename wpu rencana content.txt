@@ -3,6 +3,7 @@ rencama konten wpu
   =es6
   =framework js
   -view
+  -react
   
 -struktur data dasar
 -php framewrok
