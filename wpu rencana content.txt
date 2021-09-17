@@ -2,9 +2,10 @@ rencama konten wpu
 -video js
   =es6
   =framework js
+
   -view
   -react
-  
+
 -struktur data dasar
 -php framewrok
 -laravel
